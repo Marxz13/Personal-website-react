@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
-
 function Resume(){
+    
     const resumeRef = useRef(null);
 
     useEffect(() => {
@@ -26,7 +26,7 @@ function Resume(){
         <section className="resume" ref={resumeRef}>
             <div className="resume-wrap">
                 <h2>CHECK OUT MY RESUME!</h2>
-                <a href="">BLAST OFF</a>
+                <a href="../Marz_resume.pdf" download>BLAST OFF</a>
             </div>
         </section>
     )

@@ -24,7 +24,7 @@ function About(){
             <div className="container-about-wrap">
                 <h2>ABOUT ME</h2>
                 <div className="about-desc" ref={aboutDescRef}>
-                    <img src="img/Coding.gif" alt="profile-picture" id="profile-picture"/>
+                    <img src="img/Coding.gif" alt="coding" id="profile-picture"/>
                     <div className="passion-skills-wrap">
                         <div className="passion">
                             <h3>PASSION</h3>
@@ -34,14 +34,13 @@ function About(){
                         <div className="skills">
                             <h3>TECHNOLOGIES</h3>
                             <div className="skills-img-wrap">
-                                <img src="/img/html.svg"/>
-                                <img src="img/css.svg"/>
-                                <img src="img/javascript.svg"/>
-                                <img src="img/git.svg"/>
-                                <img src="img/React.svg"/>
-                                <img src="img/mysql.svg"/>
-                                <img src="img/python.svg"/>
-                                <img src="img/fontawesome.svg"/>
+                                <img src="/img/html.svg" alt='html'/>
+                                <img src="img/css.svg" alt="css"/>
+                                <img src="img/javascript.svg" alt="javascript"/>
+                                <img src="img/git.svg" alt="git"/>
+                                <img src="img/React.svg" alt='react'/>
+                                <img src="img/mysql.svg" alt="mysql"/>
+                                <img src="img/python.svg" alt="python"/>
                             </div>
                         </div>
                     </div>

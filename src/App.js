@@ -6,6 +6,7 @@ import Project from "./components/Project.js";
 import Resume from "./components/Resume.js";
 import ContactUs from './components/Contact.js';
 import Footer from "./components/Footer";
+import 'font-awesome/css/font-awesome.min.css';
 
 function App() {
   return (
