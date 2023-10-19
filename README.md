@@ -1,6 +1,6 @@
 # Marz's personal portfolio
 
-Live demo at : marzallan.netlify.app
+Live demo at : https://marzallan.netlify.app
 
 ## Getting Started with Create React App
 
